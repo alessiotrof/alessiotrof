@@ -12,9 +12,11 @@
     🎮 Games • Code • Movies • Music
 </pre>
 
+</div> 
+
 <br><br><br>
-<img src="https://raw.githubusercontent.com/alessiotrof/alessiotrof/main/assets/dino.png" height="60" align="center"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=798766&random=false&width=435&lines=%3C---+doing+my+best" align="center"/>
+<img src="https://raw.githubusercontent.com/alessiotrof/alessiotrof/main/assets/dino.png" height="60"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=798766&random=false&width=435&lines=%3C---+doing+my+best"/>
 <br>
 
 
