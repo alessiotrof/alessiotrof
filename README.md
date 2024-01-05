@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**alessiotrof/alessiotrof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/alessiotrof/alessiotrof/main/assets/pixel_art.png" width="40%" align="right" /> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+there!;I'm+Alessio%2C+a+tech+enthusiast!" width="60%" />
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>
+    💼 MsC Computer Engineering Student @Unibo
+    💻 Game developer wannabe
+    📖 Unity engine • C# programming language
+    🎮 Games • Code • Movies • Music
+</pre>
+
+<br><br><br><br>
+<img src="https://raw.githubusercontent.com/alessiotrof/alessiotrof/main/assets/dino.png" height="80" align="center"/>
+<br><br><br><br>
